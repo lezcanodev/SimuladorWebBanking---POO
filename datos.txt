@@ -1,0 +1,19 @@
+Cliente Jorge:
+	ruc: 1234567
+	pin cuenta: 1234
+	pin transaccion: 5678
+
+Cliente Pedro:
+	ruc: 7654321
+	pin cuenta: 4321
+	pin transaccion: 8765
+
+Pago de Servicios:
+	Ande
+	   Identificadores(nis):
+		- 123456 tiene dos pagos el primero 120000 y el segundo 125000
+		- 654321 debe pagar 75000
+	Essap
+	   Identificadores(issan)	
+		- 123456 debe pagar 250000
+		- 654321  el cliente debe especificar el monto a pagar
